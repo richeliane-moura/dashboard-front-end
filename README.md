@@ -6,7 +6,7 @@ Dashboard administrativo desenvolvido com **React**, utilizando **Vite** como bu
 
 ## 🔗 Demo Online
 
-👉 [Demo do Dashboard](https://richeliane-moura.github.io/dashboard_front_end)
+👉 [Demo do Dashboard](https://richeliane-moura.github.io/dashboard-front-end/)
 
 ---
 
